@@ -1,3 +1,4 @@
 ## Voici l'apperçu des personnes qui m'inspire 
 
-![capture d'écran du site web](./image/Capture_d'écran_carte.png)
+![capture d'écran du site web](./image/Capture_d’écran_carte)
+
